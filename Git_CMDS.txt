@@ -1,1 +1,16 @@
+		Simple CMDS
+
+
 1.> git clone ------
+2.> git status //untracked files, added file for latter commit
+
+3.>git add --name--- or  -A //add file 
+
+>> git config --global user.name "Yashdeep24Git"
+>> git config --global user.gmail "Gmail"
+
+4.> git commit -m "message" 
+
+5.> git push -u origin master // puch to remote server
+
+
